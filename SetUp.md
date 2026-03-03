@@ -23,7 +23,7 @@ Press **Ctrl+C** to stop the server. Pass `--no-open` to skip opening the browse
 
 ---
 
-## Option 1: Spotify API (Recommended)
+## Option 1: Spotify API (Recommended, Premium Required)
 
 ### Spotify API App
 
